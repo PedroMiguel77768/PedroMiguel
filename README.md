@@ -16,7 +16,7 @@ Atualmente, estou em formação na área de Desenvolvimento de Sistemas e, ao lo
 📊 GitHub Stats  
 <p align="center">
   <img height="120em" src="https://github-readme-stats.vercel.app/api?username=PedroMiguel77768&show_icons=true&theme=tokyonight&hide_title=false" />
-  <img height="1820em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroMiguel77768&layout=compact&theme=tokyonight" />
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroMiguel77768&layout=compact&theme=tokyonight" />
 </p>
 
 🚀 Linguagens e Tecnologias  
